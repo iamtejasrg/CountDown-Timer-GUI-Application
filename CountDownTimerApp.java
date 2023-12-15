@@ -94,7 +94,7 @@ public class CountDownTimer {
             timer.stop();
         }
         
-        try
+        try 
         {
             // Parse input values for minutes and seconds
           minutes = Integer.parseInt(minutesField.getText());
